@@ -15,21 +15,6 @@
   src: url('../font/IRANSansWeb_Bold.ttf')format('truetype'), url("../font/IRANSansWeb_Bold.eot");
   /* EOT file for IE */
 }
-@font-face {
-  font-family: Ordibehesht;
-  font-weight: normal;
-  font-style: normal;
-  src: url('../font/IRANSansWeb.ttf')format('truetype'), url("../font/IRANSansWeb.eot");
-  /* EOT file for IE */
-}
-
-@font-face {
-  font-family: Ordibehesht;
-  font-weight: normal;
-  font-style: normal;
-  src: url('../font/IRANSansWeb_Bold.ttf')format('truetype'), url("../font/IRANSansWeb_Bold.eot");
-  /* EOT file for IE */
-}
 
 /*--- delete after show ---*/
 
@@ -37,7 +22,7 @@
   font-family: Ionicons;
   font-weight: normal;
   font-style: normal;
-  src: url('../font/Ionicons.ttf')format('truetype'), url("../font/Ionicons.eot");
+  src: url('../font/ionicons.ttf')format('truetype'), url("../font/ionicons.eot"), url("../font/ionicons.svg");
   /* EOT file for IE */
 }
 
